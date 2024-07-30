@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Minji Kim, a PhD student at SNU Computer Vision Lab. 
+I'm Minji Kim, a PhD student at the Computer Vision Lab. at Seoul National University.
 
 - 🔭 I’m interested in video understanding with vision-language models.
 - ✨ My recent publications:
