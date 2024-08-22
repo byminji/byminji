@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=byminji&color=ff69b4&style=flat-square)
+
 I'm Minji Kim, a PhD student at the Computer Vision Lab at Seoul National University.
 
 - 🔭 I’m interested in video understanding with vision-language models.
