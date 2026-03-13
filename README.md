@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Minji Kim, a PhD student at the Computer Vision Lab at Seoul National University.
+I'm Minji Kim, and I'm a PhD student at the Computer Vision Lab at Seoul National University.
 
-- 🔭 Research interests: video understanding, multimodal llms, interpretable and efficient video models
+- 🔭 Research interests: video understanding, multimodal llms, mechanistic interpretability
 - ✨ My recent publications:
   - [Map-the-Flow] Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs, ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.13251) [[Code]](https://map-the-flow.github.io/) 
   - [TC-CLIP] Leveraging Temporal Contextualization for Video Action Recognition, ECCV 2024 [[Paper]](https://arxiv.org/abs/2404.09490) [[Code]](https://github.com/naver-ai/tc-clip)
