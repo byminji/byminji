@@ -2,9 +2,8 @@
 
 I'm Minji Kim, a PhD student at the Computer Vision Lab at Seoul National University.
 
-- 🔭 **Research interests:** Video Understanding, Multimodal LLMs, and Mechanistic Interpretability
-- 🌐 **Website:** [byminji.github.io](https://byminji.github.io/)
-- 📫 **Contact:** [minji@snu.ac.kr](mailto:minji@snu.ac.kr)
+- 🔭 **Research interests:** Video Understanding, Multimodal LLMs, Mechanistic Interpretability
+- 🌐 **Website:** [byminji.github.io](https://byminji.github.io/) · 📫 **Contact:** [minji@snu.ac.kr](mailto:minji@snu.ac.kr)
 
 ### ✨ Recent Publications
 
